@@ -37,7 +37,7 @@
   <a href="https://github.com/hoanglong2469">
     <img src="https://img.shields.io/badge/GitHub-hoanglong2469-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="hoanglong.developer@gmail.com">
     <img src="https://img.shields.io/badge/Email-YourEmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
