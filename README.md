@@ -26,8 +26,17 @@
 
 ## 📊 Thống kê GitHub:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoanglong2469&show_icons=true&theme=radical" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoanglong2469&layout=compact&theme=radical" height="180px"/>
+  <a href="https://github.com/hoanglong2469">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoanglong2469&theme=tokyo-night&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/hoanglong2469">
+    <img src="https://github-readme-stats.vercel.app/api?username=hoanglong2469&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px" />
+  </a>
+  <a href="https://github.com/hoanglong2469">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoanglong2469&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180px"/>
+  </a>
 </p>
 
 ---
@@ -37,7 +46,7 @@
   <a href="https://github.com/hoanglong2469">
     <img src="https://img.shields.io/badge/GitHub-hoanglong2469-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="hoanglong.developer@gmail.com">
-    <img src="https://img.shields.io/badge/Email-YourEmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:hoanglong.developer@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hoanglong.developer@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
